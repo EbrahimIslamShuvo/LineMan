@@ -77,7 +77,7 @@ const SingleService = () => {
                 <img
                   src={img}
                   alt={`service-${idx}`}
-                  className="rounded-xl shadow-md h-64 w-full object-cover"
+                  className="rounded-xl shadow-md h-120 w-full object-cover"
                 />
               </SwiperSlide>
             ))}
