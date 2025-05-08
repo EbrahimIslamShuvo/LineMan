@@ -1,0 +1,214 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Electrical Repairing",
+      "images": [
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-1.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-2.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-3.jpg"
+      ],
+      "short_description": "Expert repairs for all residential electrical issues and malfunctions.",
+      "long_description": "Our electrical repair service provides comprehensive solutions for all residential electrical systems, addressing everything from minor outlet issues to complete rewiring projects. With over 15 years of industry experience, our licensed electricians possess the expertise to diagnose and resolve even the most complex electrical problems in your home. We begin every service call with a thorough safety inspection, using advanced diagnostic tools like thermal imaging cameras and circuit analyzers to identify hidden issues that could pose fire hazards. Common repairs we handle include fixing faulty wiring, repairing circuit breakers that constantly trip, replacing damaged outlets and switches, troubleshooting lighting problems, and resolving voltage fluctuations. We understand that electrical emergencies don't always happen during business hours, which is why we offer 24/7 emergency repair services with response times guaranteed within two hours for critical situations. All our repairs come with a 2-year warranty covering both parts and labor, giving you peace of mind about the quality of our work. We only use UL-listed materials and components from reputable manufacturers like Siemens, Eaton, and Leviton, ensuring your repairs meet the highest industry standards. For older homes, we specialize in updating outdated knob-and-tube wiring or aluminum wiring systems to modern, safer copper wiring that can handle today's electrical demands. Our technicians will explain every step of the repair process in clear language and provide detailed recommendations for preventing future issues. After completing any repair, we conduct rigorous testing of the entire affected circuit to verify proper operation and safety. We also provide a detailed digital report with before-and-after photos documenting the work performed, which can be valuable for your home maintenance records or future real estate transactions. Beyond just fixing immediate problems, we look for underlying issues that might cause recurring electrical failures, addressing root causes rather than just symptoms. For complex projects, we can coordinate with your homeowners' insurance and provide all necessary documentation for claims. Our commitment to customer education means we'll show you how to identify early warning signs of electrical problems and provide maintenance tips to extend the life of your electrical system. We maintain complete transparency with upfront pricing and will never recommend unnecessary repairs. All our electricians undergo continuous training on the latest National Electrical Code updates and safety protocols to ensure your home receives the most current, code-compliant service available.",
+      "working_process": [
+        "Initial safety assessment and power isolation",
+        "Comprehensive diagnostic testing using advanced equipment",
+        "Detailed explanation of findings and repair options",
+        "Obtaining customer approval before proceeding",
+        "Careful disconnection of faulty components",
+        "Installation of new, high-quality replacement parts",
+        "Precision wiring and secure connections",
+        "Systematic testing of all repaired components",
+        "Full circuit load testing",
+        "Final safety inspection and cleanup",
+        "Customer walkthrough and documentation"
+      ],
+      "benefits": "Professional electrical repairs eliminate safety hazards like shock risks and potential electrical fires. Proper repairs improve energy efficiency, reducing your power bills. Our services extend the lifespan of your electrical system and prevent costly future breakdowns. You'll enjoy reliable power distribution throughout your home with properly functioning circuits. Our warranty guarantees long-term protection for your investment in quality repairs.",
+      "our_commitment": [
+        {
+          "image": "safety_protocols.jpg",
+          "description": "Strict adherence to OSHA safety standards with insulated tools and protective equipment for every job"
+        },
+        {
+          "image": "code_compliance.jpg",
+          "description": "All work performed to exceed current National Electrical Code requirements for maximum safety"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Commercial Services",
+      "images": [
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-2.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-3.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-4.jpg"
+      ],
+      "short_description": "Complete electrical solutions for businesses and commercial properties.",
+      "long_description": "Our commercial electrical services provide end-to-end solutions tailored to the unique demands of businesses, retail spaces, offices, and industrial facilities. We specialize in designing, installing, and maintaining commercial-grade electrical systems that support your operations while maximizing energy efficiency and minimizing downtime. Our team of master electricians has extensive experience with complex three-phase power systems, high-voltage installations, and specialized equipment wiring for various industries including restaurants, healthcare facilities, manufacturing plants, and IT data centers. We begin every commercial project with a detailed load analysis and electrical system evaluation to identify current needs and anticipate future growth requirements. Our services include complete electrical build-outs for new construction, lighting retrofits with energy-efficient LED solutions, emergency backup power system installations, and comprehensive preventive maintenance programs. We understand that commercial operations can't afford extended outages, so we offer after-hours and weekend service options with guaranteed response times for priority clients. For retail environments, we design lighting schemes that enhance product displays while reducing energy consumption. Office buildings benefit from our structured cabling solutions that support modern technology infrastructure. Our industrial electrical services focus on heavy-duty equipment installation, motor control systems, and power distribution upgrades that withstand demanding production environments. We coordinate closely with facility managers to develop customized maintenance schedules that minimize disruption to daily operations. All our commercial work complies with NEC, OSHA, and local business regulations, and we provide complete documentation for compliance audits. We maintain partnerships with leading electrical manufacturers to source high-quality commercial-grade materials at competitive prices. Our project management team handles all permitting and inspections, ensuring smooth project progression from conception to completion. For large-scale projects, we employ BIM (Building Information Modeling) technology to identify potential conflicts before installation begins. Energy management is a key focus, with solutions like smart metering, automated lighting controls, and power factor correction systems that reduce operational costs. We also specialize in sustainable solutions including solar panel integration and EV charging station installations. Our emergency services team is available 24/7 to address critical power failures that could impact your business operations or security systems. With our commercial electrical services, you gain a strategic partner committed to keeping your business powered safely, efficiently, and reliably.",
+      "working_process": [
+        "Detailed consultation and needs assessment",
+        "Electrical load calculations and system design",
+        "Permitting and regulatory compliance review",
+        "Phased installation to minimize business disruption",
+        "Commercial-grade equipment installation",
+        "Three-phase power system configuration",
+        "Energy management system integration",
+        "Thorough testing of all circuits and components",
+        "Staff training on new systems",
+        "Final inspection and documentation",
+        "Scheduled follow-up maintenance"
+      ],
+      "benefits": "Professional commercial electrical services ensure uninterrupted business operations with reliable power infrastructure. Our energy-efficient solutions can significantly reduce your facility's operating costs. Code-compliant installations protect your business from liability risks. Scalable system designs accommodate future growth and technology upgrades. Preventive maintenance programs extend equipment lifespan and prevent costly emergency repairs. Expert installations enhance safety for employees, customers, and inventory.",
+      "our_commitment": [
+        {
+          "image": "minimal_disruption.jpg",
+          "description": "We plan all work to minimize impact on your daily operations and productivity"
+        },
+        {
+          "image": "scalable_solutions.jpg",
+          "description": "Our designs always account for future business expansion and increased power needs"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Industrial Services",
+      "images": [
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-3.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-4.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-5.jpg"
+      ],
+      "short_description": "Robust electrical solutions for manufacturing plants and industrial facilities.",
+      "long_description": "Our industrial electrical services are engineered to meet the rigorous demands of manufacturing plants, warehouses, processing facilities, and other industrial operations. We specialize in high-power electrical systems capable of supporting heavy machinery, production lines, and industrial automation equipment. Our certified industrial electricians have extensive training in working with 480V+ systems, motor control centers, PLCs (Programmable Logic Controllers), and complex power distribution networks. We begin each project with a comprehensive arc flash hazard analysis and electrical system study to identify potential risks and optimization opportunities. Our services include industrial panel building, conduit and tray system installations, motor repair and replacement, transformer maintenance, and preventative thermographic inspections. For facilities with sensitive equipment, we provide power quality solutions like harmonic filters and voltage regulators to protect against surges, sags, and electrical noise. We understand that industrial operations run around the clock, so we offer shutdown planning services to coordinate electrical work during planned maintenance periods with minimal production impact. Our team is experienced in classified hazardous locations (HazLoc) requiring explosion-proof fixtures and special wiring methods. We provide detailed arc flash labeling and electrical safety training for your maintenance staff to comply with NFPA 70E standards. For aging facilities, we offer complete electrical infrastructure upgrades that maintain operations while modernizing your power systems. Our predictive maintenance programs use vibration analysis, infrared thermography, and other advanced diagnostics to identify potential failures before they occur. We design redundant power systems and automatic transfer switches for critical processes that cannot tolerate interruptions. Our industrial lighting solutions combine high-efficiency luminaires with durable construction suited for harsh environments. We maintain partnerships with major industrial equipment manufacturers to ensure proper integration of new machinery with existing electrical systems. All our industrial work follows strict lockout/tagout (LOTO) procedures and is performed by electricians with specialized safety training for high-voltage environments. We provide as-built drawings and updated single-line diagrams after all major installations or modifications. With our industrial electrical services, you gain a partner committed to maximizing your facility's uptime, safety, and energy efficiency while ensuring compliance with all relevant industrial electrical standards.",
+      "working_process": [
+        "Initial facility walkthrough and risk assessment",
+        "Detailed power requirements analysis",
+        "Arc flash study and safety planning",
+        "Equipment specification and procurement",
+        "Pre-installation safety briefings",
+        "Precision installation of industrial components",
+        "Motor control center programming",
+        "PLC integration and testing",
+        "High-voltage system commissioning",
+        "Comprehensive safety testing",
+        "Operator training and documentation"
+      ],
+      "benefits": "Industrial-grade electrical solutions maximize production uptime and equipment reliability. Our safety-focused approach reduces workplace hazards and compliance risks. Energy-efficient designs lower operational costs without sacrificing performance. Predictive maintenance prevents unexpected breakdowns and production losses. Properly installed power systems extend the lifespan of expensive industrial machinery. Expert integration ensures optimal performance of automation and control systems.",
+      "our_commitment": [
+        {
+          "image": "hazard_mitigation.jpg",
+          "description": "We prioritize arc flash safety with proper PPE and hazard analysis for all industrial work"
+        },
+        {
+          "image": "uptime_guarantee.jpg",
+          "description": "Our planning ensures electrical work never disrupts critical production schedules"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Power Restoration",
+      "images": [
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-4.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-5.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-6.jpg"
+      ],
+      "short_description": "Emergency power restoration services for outages and electrical failures.",
+      "long_description": "Our 24/7 power restoration services provide immediate response to electrical outages, whether caused by storms, equipment failure, or other emergencies. When the lights go out, our certified emergency electricians deploy rapidly with fully-stocked service vehicles equipped to handle all types of power restoration scenarios. We begin with a thorough safety assessment to identify the root cause of the outage, which may include fallen power lines, transformer failures, tripped breakers, or damage to your main service panel. For weather-related outages, we first ensure the property is safe to enter, checking for water intrusion or structural damage that could pose electrical hazards. Our team carries specialized equipment like cable locators, circuit tracers, and insulation testers to quickly diagnose underground or concealed wiring faults. We provide temporary power solutions when immediate full restoration isn't possible, including generator hookups and critical circuit reactivation for essential appliances and medical equipment. For commercial clients, we prioritize restoring power to refrigeration units, security systems, and server rooms to prevent data loss and inventory spoilage. Our storm response protocol includes coordination with local utility companies to determine whether outages originate from the grid or your property's electrical system. We document all damage thoroughly for insurance purposes, providing detailed reports with photographs of affected components. After restoring power, we conduct comprehensive load testing to ensure your system can handle the electrical demand without risking another outage. Our preventive recommendations may include surge protector installation, tree trimming near power lines, or panel upgrades for older systems prone to failure. We maintain an inventory of common replacement parts like breakers, fuses, and weatherheads to expedite repairs during widespread outage events. For recurring power interruption issues, we perform advanced diagnostics like thermal imaging to detect hidden problems in your electrical system. Our emergency electricians receive ongoing training in disaster recovery protocols and work closely with first responders during major outage events. With our power restoration services, you get more than just temporary fixes - we implement solutions designed to prevent future outages and harden your electrical system against extreme weather conditions and other common failure causes.",
+      "working_process": [
+        "Emergency dispatch with 60-minute response guarantee",
+        "Site safety assessment and hazard identification",
+        "Diagnosis of outage cause using advanced testing equipment",
+        "Coordination with utility companies if needed",
+        "Implementation of temporary power solutions when required",
+        "Component repair or replacement using commercial-grade parts",
+        "Systematic reactivation of circuits with load monitoring",
+        "Full system testing under operational loads",
+        "Surge protection installation if warranted",
+        "Detailed outage report with repair documentation",
+        "Follow-up inspection scheduling"
+      ],
+      "benefits": "Rapid power restoration minimizes disruption to your home or business operations. Our emergency services prevent secondary damage from prolonged outages. Professional repairs ensure safe restoration without risking electrical fires. Temporary power solutions maintain critical systems during extended outages. Thorough diagnostics identify underlying issues that caused the failure. Insurance-friendly documentation simplifies claims processing for storm-related damage.",
+      "our_commitment": [
+        {
+          "image": "rapid_response.jpg",
+          "description": "Guaranteed emergency response within 60 minutes 24/7/365 for critical outages"
+        },
+        {
+          "image": "storm_prepared.jpg",
+          "description": "Specialized equipment and training for severe weather-related electrical emergencies"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Circuit Maintenance",
+      "images": [
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-5.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-6.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-1.jpg"
+      ],
+      "short_description": "Preventive maintenance and troubleshooting for electrical circuits.",
+      "long_description": "Our comprehensive circuit maintenance services proactively protect your electrical system from failures, inefficiencies, and safety hazards through regular inspection and care. Electrical circuits form the backbone of your property's power distribution, and proper maintenance is crucial for preventing costly breakdowns and dangerous conditions like electrical fires. Our maintenance program begins with a complete circuit mapping exercise to identify all branch circuits, their loads, and connection points throughout your property. Using infrared thermography, we detect hot spots in panels and outlets that indicate loose connections or overloaded circuits. Our technicians perform precise voltage and current measurements to verify each circuit operates within safe parameters, checking for voltage drops that could indicate wiring problems. We tighten all connections to manufacturer specifications in your main panel and subpanels, as loose terminals are a leading cause of electrical fires. For aging systems, we test insulation resistance to identify deteriorating wiring before it fails. Our maintenance includes arc fault testing to detect dangerous arcing conditions that standard breakers might not catch. We verify proper grounding and bonding throughout your system, which is essential for both safety and equipment protection. For commercial facilities, we conduct harmonic distortion analysis to prevent damage to sensitive electronics from power quality issues. Our circuit labeling service ensures every breaker is clearly marked for easy identification during emergencies. We provide load balancing recommendations to optimize circuit usage and prevent overloads that could trip breakers or damage equipment. Seasonal maintenance checks account for changing electrical demands, such as increased holiday lighting loads or summer cooling system operation. Our maintenance reports include prioritized recommendations for upgrades or repairs, with detailed documentation of all test results for your records. For facilities with critical power needs, we offer quarterly maintenance programs with emergency priority service between scheduled visits. We also inspect and test GFCI and AFCI protection devices to ensure they'll function properly when needed. Our circuit maintenance services extend the lifespan of your electrical system, improve energy efficiency, and most importantly, significantly reduce the risk of electrical fires in your home or business. With our systematic approach, you'll gain peace of mind knowing your electrical circuits receive professional care from certified electricians using the latest diagnostic technology.",
+      "working_process": [
+        "Complete circuit mapping and documentation",
+        "Infrared thermal scanning of all panels and connections",
+        "Voltage and current measurements on each circuit",
+        "Terminal tightening to specified torque values",
+        "Insulation resistance testing for aging wiring",
+        "Grounding and bonding system verification",
+        "AFCI/GFCI functionality testing",
+        "Load balancing analysis and recommendations",
+        "Harmonic distortion measurement (commercial systems)",
+        "Circuit labeling verification and updates",
+        "Detailed maintenance report generation"
+      ],
+      "benefits": "Regular circuit maintenance prevents 80% of common electrical failures before they occur. Professional care extends the lifespan of wiring and electrical components. Early problem detection avoids costly emergency repairs. Optimized circuit performance reduces energy waste. Comprehensive testing ensures compliance with current safety standards. Detailed records support insurance requirements and property valuations. Peace of mind knowing your electrical system is professionally maintained.",
+      "our_commitment": [
+        {
+          "image": "preventive_focus.jpg",
+          "description": "We emphasize preventive care to avoid emergencies rather than just reactive repairs"
+        },
+        {
+          "image": "tech_tools.jpg",
+          "description": "Investment in advanced diagnostic tools ensures we catch issues invisible to the naked eye"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Energy Repairs",
+      "images": [
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-6.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-1.jpg",
+        "https://demo.awaikenthemes.com/lineman/wp-content/uploads/2025/02/service-image-2.jpg"
+      ],
+      "short_description": "Electrical upgrades and repairs to reduce energy consumption.",
+      "long_description": "Our energy efficiency repair services identify and correct electrical system issues that waste power, helping you reduce energy bills while improving performance. Many properties suffer from hidden electrical inefficiencies that significantly increase energy consumption without obvious symptoms. We begin with a comprehensive energy audit of your electrical system using power loggers, thermal imaging, and advanced metering to pinpoint exactly where and how energy is being wasted. Common issues we address include voltage imbalances, transformer losses, phantom loads, and outdated wiring that creates excessive resistance. We repair or replace inefficient electrical components like aging panels, undersized wiring, and faulty breakers that cause power leakage. Our lighting efficiency upgrades replace outdated fixtures with modern LED solutions that use 75% less energy while providing better illumination. We install smart controls like motion sensors, daylight harvesters, and programmable timers to automatically reduce energy use when full power isn't needed. For commercial clients, we implement power factor correction systems that can reduce utility demand charges by up to 30%. We address thermal issues in electrical systems that indicate energy loss, such as hot circuit breakers or warm junction boxes. Our grounding system repairs eliminate stray voltage that can subtly increase energy consumption. We optimize circuit layouts to minimize voltage drop over long wire runs, which improves efficiency and equipment performance. For properties with solar systems, we ensure your electrical infrastructure properly integrates renewable energy without backfeed losses. We provide detailed before-and-after energy usage comparisons to quantify your savings from our efficiency repairs. Many of our energy efficiency improvements qualify for utility rebates or tax incentives, and we assist with the application process. Our solutions consider both immediate fixes and long-term upgrades, prioritizing changes that offer the fastest return on investment. We also educate property owners on usage patterns and behaviors that can further reduce energy consumption. Unlike simple equipment swaps, our holistic approach examines how all components of your electrical system work together, identifying synergistic improvements that deliver greater savings than individual upgrades. With our energy efficiency repairs, you'll not only save money on utilities but also benefit from more reliable operation, extended equipment life, and reduced environmental impact - all while maintaining or improving your electrical system's performance capabilities.",
+      "working_process": [
+        "Comprehensive energy audit with diagnostic testing",
+        "Identification of all energy-wasting issues",
+        "Prioritized repair plan development",
+        "Utility rebate research and application assistance",
+        "Efficient component installation and upgrades",
+        "Lighting system modernization",
+        "Smart control system programming",
+        "Power factor correction installation (commercial)",
+        "Voltage optimization adjustments",
+        "System re-testing to verify efficiency gains",
+        "Energy monitoring recommendations"
+      ],
+      "benefits": "Energy efficiency repairs typically reduce electrical bills by 20-40%. Upgrades improve equipment performance and lifespan. Reduced energy consumption lowers your carbon footprint. Many improvements qualify for utility rebates and tax incentives. Professional repairs eliminate hidden energy drains in your electrical system. Smart controls automate energy savings without sacrificing convenience. Comprehensive approach addresses both equipment and usage patterns.",
+      "our_commitment": [
+        {
+          "image": "savings_guarantee.jpg",
+          "description": "We guarantee measurable energy savings from our efficiency repairs or we'll make adjustments"
+        },
+        {
+          "image": "eco_friendly.jpg",
+          "description": "We prioritize sustainable solutions that benefit both your budget and the environment"
+        }
+      ]
+    }
+  ]
+}

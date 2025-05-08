@@ -1,0 +1,43 @@
+import React from "react";
+
+const PageHeader = ({ name, image }) => {
+  return (
+    <div className="relative">
+      <div className="w-11/12 mx-auto bg-gradient-to-r from-transparent via-[#1B4B36] to-transparent h-[33vh] rounded-3xl mb-15 relative overflow-hidden">
+        {/* Left image */}
+        <div
+          className="h-full bg-cover bg-center"
+          style={{
+            backgroundImage:
+              `url(${image})`,
+          }}
+        >
+          <div className="absolute inset-0 bg-black opacity-40"></div> {/* Overlay for left image */}
+        </div>
+
+        {/* Middle Empty Space (can be used for other content if needed) */}
+        <div />
+
+        {/* Right image */}
+        <div
+          className="h-full bg-cover bg-center"
+          style={{
+            backgroundImage:
+              `url(${image})`,
+          }}
+        >
+          <div className="absolute inset-0 bg-black opacity-40"></div> {/* Overlay for right image */}
+        </div>
+
+        {/* Text over the images */}
+        <div className="absolute inset-0 flex flex-col justify-center items-center">
+          <h1 className="text-white font-extrabold text-6xl text-center">
+            {name}
+          </h1>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default PageHeader;
