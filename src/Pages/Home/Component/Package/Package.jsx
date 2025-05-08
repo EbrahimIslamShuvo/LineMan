@@ -15,7 +15,7 @@ const Package = () => {
 
     return (
         <div>
-            <div className="flex flex-col justify-center items-center w-11/12 mx-auto my-5">
+            <div className="flex flex-col justify-center items-center w-11/12 mx-auto my-15">
                 <div className="flex flex-col justify-center items-center">
                     <SubHeader name={"OUR PRICING"} color={"text-[#1B4B36]"} />
                     <Header beforeBr={"High-quality electrical services"} afterBr={"without breaking"} yellowText={"the bank"} />
